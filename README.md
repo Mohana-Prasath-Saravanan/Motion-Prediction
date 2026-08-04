@@ -2,7 +2,7 @@ In this code, I used different motion prediction algorithms such as Multi Layer 
 
 ** We have done the denormalization in the file Denormalization.py **
 
-Clone the repo using git and follow the process below:
+Clone the repo using git clone and follow the process below:
 
 Steps to run the models:
 
